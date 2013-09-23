@@ -5,7 +5,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://thetrickster.github.io/cmatthias-blog/'
   relativeLinks: 'http://thetrickster.github.io/cmatthias-blog/links.jsonp'
-  media: 'media'
+  media: 'img/media'
   metadata:
     _posts:
       - name: "category"
