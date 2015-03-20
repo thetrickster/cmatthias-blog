@@ -1,8 +1,8 @@
 ---
 layout: page
-published: false
+published: true
 title: Splash Page
-permalink: "/splash-page/"
+permalink: "/splash-page"
 ---
 
 ## A New Post
